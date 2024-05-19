@@ -1,0 +1,3 @@
+aliyun-log-python-sdk
+environs
+httpx
